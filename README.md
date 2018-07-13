@@ -1,6 +1,8 @@
 ## KotlinDevNote
 **项目说明：Kotlin学习笔记，主要包含 Kotlin 的所有知识。（持续不定期更新。。。）**
 
+![kotlin](asset/kotlin.jpg)
+
 
 ## 学习笔记
 - [基础知识问题](doc/issue.md)
